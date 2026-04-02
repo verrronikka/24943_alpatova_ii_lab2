@@ -97,6 +97,7 @@ pip install -r requirements.txt
 `IoU: 56.95%` • `Dice: 72.33%`
 
 
+<img width="1121" height="585" alt="image" src="https://github.com/user-attachments/assets/fef72b2b-73ad-4f3f-a29a-61762c9acd10" />
 
 
 
